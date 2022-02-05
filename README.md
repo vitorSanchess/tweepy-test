@@ -1,2 +1,0 @@
-# tweepy-test
-# tweepy-discord
